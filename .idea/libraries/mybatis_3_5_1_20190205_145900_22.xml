@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mybatis-3.5.1-20190205.145900-22">
+    <CLASSES>
+      <root url="jar://G:/jar包/mybatis-3.5.1-20190205.145900-22.jar!/" />
+      <root url="jar://G:/jar包/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://G:/jar包/junit-4.8.2.jar!/" />
+      <root url="file://G:/jar包/JSTL" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://G:/jar包/JSTL" recursive="false" />
+  </library>
+</component>
